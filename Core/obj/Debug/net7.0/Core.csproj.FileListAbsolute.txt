@@ -1,0 +1,72 @@
+C:\Users\Horiacus\Desktop\Licenta skinet\skinet-b2ddb9cf518833c9aa2524165a67af445956c193\Core\bin\Debug\net7.0\Core.deps.json
+C:\Users\Horiacus\Desktop\Licenta skinet\skinet-b2ddb9cf518833c9aa2524165a67af445956c193\Core\bin\Debug\net7.0\Core.dll
+C:\Users\Horiacus\Desktop\Licenta skinet\skinet-b2ddb9cf518833c9aa2524165a67af445956c193\Core\bin\Debug\net7.0\Core.pdb
+C:\Users\Horiacus\Desktop\Licenta skinet\skinet-b2ddb9cf518833c9aa2524165a67af445956c193\Core\obj\Debug\net7.0\Core.csproj.AssemblyReference.cache
+C:\Users\Horiacus\Desktop\Licenta skinet\skinet-b2ddb9cf518833c9aa2524165a67af445956c193\Core\obj\Debug\net7.0\Core.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Horiacus\Desktop\Licenta skinet\skinet-b2ddb9cf518833c9aa2524165a67af445956c193\Core\obj\Debug\net7.0\Core.AssemblyInfoInputs.cache
+C:\Users\Horiacus\Desktop\Licenta skinet\skinet-b2ddb9cf518833c9aa2524165a67af445956c193\Core\obj\Debug\net7.0\Core.AssemblyInfo.cs
+C:\Users\Horiacus\Desktop\Licenta skinet\skinet-b2ddb9cf518833c9aa2524165a67af445956c193\Core\obj\Debug\net7.0\Core.csproj.CoreCompileInputs.cache
+C:\Users\Horiacus\Desktop\Licenta skinet\skinet-b2ddb9cf518833c9aa2524165a67af445956c193\Core\obj\Debug\net7.0\Core.dll
+C:\Users\Horiacus\Desktop\Licenta skinet\skinet-b2ddb9cf518833c9aa2524165a67af445956c193\Core\obj\Debug\net7.0\refint\Core.dll
+C:\Users\Horiacus\Desktop\Licenta skinet\skinet-b2ddb9cf518833c9aa2524165a67af445956c193\Core\obj\Debug\net7.0\Core.pdb
+C:\Users\Horiacus\Desktop\Licenta skinet\skinet-b2ddb9cf518833c9aa2524165a67af445956c193\Core\obj\Debug\net7.0\ref\Core.dll
+C:\Users\Horiacus\Desktop\Licenta skinet\Licenta\Licenta API\Core\bin\Debug\net7.0\Core.deps.json
+C:\Users\Horiacus\Desktop\Licenta skinet\Licenta\Licenta API\Core\bin\Debug\net7.0\Core.dll
+C:\Users\Horiacus\Desktop\Licenta skinet\Licenta\Licenta API\Core\bin\Debug\net7.0\Core.pdb
+C:\Users\Horiacus\Desktop\Licenta skinet\Licenta\Licenta API\Core\obj\Debug\net7.0\Core.csproj.AssemblyReference.cache
+C:\Users\Horiacus\Desktop\Licenta skinet\Licenta\Licenta API\Core\obj\Debug\net7.0\Core.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Horiacus\Desktop\Licenta skinet\Licenta\Licenta API\Core\obj\Debug\net7.0\Core.AssemblyInfoInputs.cache
+C:\Users\Horiacus\Desktop\Licenta skinet\Licenta\Licenta API\Core\obj\Debug\net7.0\Core.AssemblyInfo.cs
+C:\Users\Horiacus\Desktop\Licenta skinet\Licenta\Licenta API\Core\obj\Debug\net7.0\Core.csproj.CoreCompileInputs.cache
+C:\Users\Horiacus\Desktop\Licenta skinet\Licenta\Licenta API\Core\obj\Debug\net7.0\Core.dll
+C:\Users\Horiacus\Desktop\Licenta skinet\Licenta\Licenta API\Core\obj\Debug\net7.0\refint\Core.dll
+C:\Users\Horiacus\Desktop\Licenta skinet\Licenta\Licenta API\Core\obj\Debug\net7.0\Core.pdb
+C:\Users\Horiacus\Desktop\Licenta skinet\Licenta\Licenta API\Core\obj\Debug\net7.0\ref\Core.dll
+C:\Users\Horiacus\Desktop\Licenta skinet\Licenta\LICENTA SA MA JOC CU EA\Licenta API\Core\bin\Debug\net7.0\Core.deps.json
+C:\Users\Horiacus\Desktop\Licenta skinet\Licenta\LICENTA SA MA JOC CU EA\Licenta API\Core\bin\Debug\net7.0\Core.dll
+C:\Users\Horiacus\Desktop\Licenta skinet\Licenta\LICENTA SA MA JOC CU EA\Licenta API\Core\bin\Debug\net7.0\Core.pdb
+C:\Users\Horiacus\Desktop\Licenta skinet\Licenta\LICENTA SA MA JOC CU EA\Licenta API\Core\obj\Debug\net7.0\Core.csproj.AssemblyReference.cache
+C:\Users\Horiacus\Desktop\Licenta skinet\Licenta\LICENTA SA MA JOC CU EA\Licenta API\Core\obj\Debug\net7.0\Core.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Horiacus\Desktop\Licenta skinet\Licenta\LICENTA SA MA JOC CU EA\Licenta API\Core\obj\Debug\net7.0\Core.AssemblyInfoInputs.cache
+C:\Users\Horiacus\Desktop\Licenta skinet\Licenta\LICENTA SA MA JOC CU EA\Licenta API\Core\obj\Debug\net7.0\Core.AssemblyInfo.cs
+C:\Users\Horiacus\Desktop\Licenta skinet\Licenta\LICENTA SA MA JOC CU EA\Licenta API\Core\obj\Debug\net7.0\Core.csproj.CoreCompileInputs.cache
+C:\Users\Horiacus\Desktop\Licenta skinet\Licenta\LICENTA SA MA JOC CU EA\Licenta API\Core\obj\Debug\net7.0\Core.dll
+C:\Users\Horiacus\Desktop\Licenta skinet\Licenta\LICENTA SA MA JOC CU EA\Licenta API\Core\obj\Debug\net7.0\refint\Core.dll
+C:\Users\Horiacus\Desktop\Licenta skinet\Licenta\LICENTA SA MA JOC CU EA\Licenta API\Core\obj\Debug\net7.0\Core.pdb
+C:\Users\Horiacus\Desktop\Licenta skinet\Licenta\LICENTA SA MA JOC CU EA\Licenta API\Core\obj\Debug\net7.0\ref\Core.dll
+C:\Users\Horiacus\Desktop\Licenta skinet\Licenta\LICENTA SA MA JOC CU EA\Licenta\Core\bin\Debug\net7.0\Core.deps.json
+C:\Users\Horiacus\Desktop\Licenta skinet\Licenta\LICENTA SA MA JOC CU EA\Licenta\Core\bin\Debug\net7.0\Core.dll
+C:\Users\Horiacus\Desktop\Licenta skinet\Licenta\LICENTA SA MA JOC CU EA\Licenta\Core\bin\Debug\net7.0\Core.pdb
+C:\Users\Horiacus\Desktop\Licenta skinet\Licenta\LICENTA SA MA JOC CU EA\Licenta\Core\obj\Debug\net7.0\Core.csproj.AssemblyReference.cache
+C:\Users\Horiacus\Desktop\Licenta skinet\Licenta\LICENTA SA MA JOC CU EA\Licenta\Core\obj\Debug\net7.0\Core.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Horiacus\Desktop\Licenta skinet\Licenta\LICENTA SA MA JOC CU EA\Licenta\Core\obj\Debug\net7.0\Core.AssemblyInfoInputs.cache
+C:\Users\Horiacus\Desktop\Licenta skinet\Licenta\LICENTA SA MA JOC CU EA\Licenta\Core\obj\Debug\net7.0\Core.AssemblyInfo.cs
+C:\Users\Horiacus\Desktop\Licenta skinet\Licenta\LICENTA SA MA JOC CU EA\Licenta\Core\obj\Debug\net7.0\Core.csproj.CoreCompileInputs.cache
+C:\Users\Horiacus\Desktop\Licenta skinet\Licenta\LICENTA SA MA JOC CU EA\Licenta\Core\obj\Debug\net7.0\Core.dll
+C:\Users\Horiacus\Desktop\Licenta skinet\Licenta\LICENTA SA MA JOC CU EA\Licenta\Core\obj\Debug\net7.0\refint\Core.dll
+C:\Users\Horiacus\Desktop\Licenta skinet\Licenta\LICENTA SA MA JOC CU EA\Licenta\Core\obj\Debug\net7.0\Core.pdb
+C:\Users\Horiacus\Desktop\Licenta skinet\Licenta\LICENTA SA MA JOC CU EA\Licenta\Core\obj\Debug\net7.0\ref\Core.dll
+C:\Users\Horiacus\Desktop\Licenta skinet\Licenta\LICENTA SA MA JOC CU EA - PostGres\Licenta\Core\bin\Debug\net7.0\Core.deps.json
+C:\Users\Horiacus\Desktop\Licenta skinet\Licenta\LICENTA SA MA JOC CU EA - PostGres\Licenta\Core\bin\Debug\net7.0\Core.dll
+C:\Users\Horiacus\Desktop\Licenta skinet\Licenta\LICENTA SA MA JOC CU EA - PostGres\Licenta\Core\bin\Debug\net7.0\Core.pdb
+C:\Users\Horiacus\Desktop\Licenta skinet\Licenta\LICENTA SA MA JOC CU EA - PostGres\Licenta\Core\obj\Debug\net7.0\Core.csproj.AssemblyReference.cache
+C:\Users\Horiacus\Desktop\Licenta skinet\Licenta\LICENTA SA MA JOC CU EA - PostGres\Licenta\Core\obj\Debug\net7.0\Core.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Horiacus\Desktop\Licenta skinet\Licenta\LICENTA SA MA JOC CU EA - PostGres\Licenta\Core\obj\Debug\net7.0\Core.AssemblyInfoInputs.cache
+C:\Users\Horiacus\Desktop\Licenta skinet\Licenta\LICENTA SA MA JOC CU EA - PostGres\Licenta\Core\obj\Debug\net7.0\Core.AssemblyInfo.cs
+C:\Users\Horiacus\Desktop\Licenta skinet\Licenta\LICENTA SA MA JOC CU EA - PostGres\Licenta\Core\obj\Debug\net7.0\Core.csproj.CoreCompileInputs.cache
+C:\Users\Horiacus\Desktop\Licenta skinet\Licenta\LICENTA SA MA JOC CU EA - PostGres\Licenta\Core\obj\Debug\net7.0\Core.dll
+C:\Users\Horiacus\Desktop\Licenta skinet\Licenta\LICENTA SA MA JOC CU EA - PostGres\Licenta\Core\obj\Debug\net7.0\refint\Core.dll
+C:\Users\Horiacus\Desktop\Licenta skinet\Licenta\LICENTA SA MA JOC CU EA - PostGres\Licenta\Core\obj\Debug\net7.0\Core.pdb
+C:\Users\Horiacus\Desktop\Licenta skinet\Licenta\LICENTA SA MA JOC CU EA - PostGres\Licenta\Core\obj\Debug\net7.0\ref\Core.dll
+C:\Users\Horiacus\Desktop\Licenta finala\Licenta\Licenta finala\Licenta Final\Core\bin\Debug\net7.0\Core.deps.json
+C:\Users\Horiacus\Desktop\Licenta finala\Licenta\Licenta finala\Licenta Final\Core\bin\Debug\net7.0\Core.dll
+C:\Users\Horiacus\Desktop\Licenta finala\Licenta\Licenta finala\Licenta Final\Core\bin\Debug\net7.0\Core.pdb
+C:\Users\Horiacus\Desktop\Licenta finala\Licenta\Licenta finala\Licenta Final\Core\obj\Debug\net7.0\Core.csproj.AssemblyReference.cache
+C:\Users\Horiacus\Desktop\Licenta finala\Licenta\Licenta finala\Licenta Final\Core\obj\Debug\net7.0\Core.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Horiacus\Desktop\Licenta finala\Licenta\Licenta finala\Licenta Final\Core\obj\Debug\net7.0\Core.AssemblyInfoInputs.cache
+C:\Users\Horiacus\Desktop\Licenta finala\Licenta\Licenta finala\Licenta Final\Core\obj\Debug\net7.0\Core.AssemblyInfo.cs
+C:\Users\Horiacus\Desktop\Licenta finala\Licenta\Licenta finala\Licenta Final\Core\obj\Debug\net7.0\Core.csproj.CoreCompileInputs.cache
+C:\Users\Horiacus\Desktop\Licenta finala\Licenta\Licenta finala\Licenta Final\Core\obj\Debug\net7.0\Core.dll
+C:\Users\Horiacus\Desktop\Licenta finala\Licenta\Licenta finala\Licenta Final\Core\obj\Debug\net7.0\refint\Core.dll
+C:\Users\Horiacus\Desktop\Licenta finala\Licenta\Licenta finala\Licenta Final\Core\obj\Debug\net7.0\Core.pdb
+C:\Users\Horiacus\Desktop\Licenta finala\Licenta\Licenta finala\Licenta Final\Core\obj\Debug\net7.0\ref\Core.dll

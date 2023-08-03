@@ -1,0 +1,58 @@
+[
+  {
+    "Name": "Godless Hoodie",
+    "Description": "Made with high-quality materials, this hoodie combines comfort with a modern design, suitable for any casual or relaxed occasion.",
+    "Price": 45,
+    "PictureUrl": "images/products/gdls-h1.jpg",
+    "ProductTypeId": 2,
+    "ProductBrandId": 1
+  },
+  {
+    "Name": "Hellhounds Tee",
+    "Description": "Carefully crafted with attention to detail, the t-shirt offers a bold and expressive design.",
+    "Price": 25,
+    "PictureUrl": "images/products/hlh-t1.jpg",
+    "ProductTypeId": 1,
+    "ProductBrandId": 2
+  },
+  {
+    "Name": "Secrets Tee",
+    "Description": "With an intriguing design, the t-shirt adds an air of mystery and charm to any outfit, making it the perfect choice for those who want to reveal just a little of their secrets.",
+    "Price": 20,
+    "PictureUrl": "images/products/scr-t2.jpg",
+    "ProductTypeId": 1,
+    "ProductBrandId": 3
+  },
+  {
+    "Name": "Slaughter Tee",
+    "Description": "Add a touch of daring and originality to your wardrobe with this t-shirt from the Slaughter collection.",
+    "Price": 30,
+    "PictureUrl": "images/products/slt-t3.jpg",
+    "ProductTypeId": 1,
+    "ProductBrandId": 4
+  },
+  {
+    "Name": "Slaughter Shirt",
+    "Description": "Made with fine materials and featuring a sophisticated design, the blouse will help you highlight your beauty and feel comfortable at the same time.",
+    "Price": 35,
+    "PictureUrl": "images/products/slt-s1.jpg",
+    "ProductTypeId": 3,
+    "ProductBrandId": 4
+  },
+  {
+    "Name": "Slaughter Hoodie",
+    "Description": "Made with high-quality materials and featuring a modern design, the hoodie provides both comfort and style during the cold season.",
+    "Price": 40,
+    "PictureUrl": "images/products/slt-h2.jpg",
+    "ProductTypeId": 2,
+    "ProductBrandId": 4
+  },
+  {
+    "Name": "vAmp! Tee",
+    "Description": "Get your dose of energy and style with this t-shirt from the vAmp! collection.",
+    "Price": 20,
+    "PictureUrl": "images/products/vmp-t4.jpg",
+    "ProductTypeId": 1,
+    "ProductBrandId": 5
+  }
+]

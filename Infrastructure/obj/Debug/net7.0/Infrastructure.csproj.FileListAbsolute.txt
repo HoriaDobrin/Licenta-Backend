@@ -1,0 +1,90 @@
+C:\Users\Horiacus\Desktop\Licenta skinet\skinet-b2ddb9cf518833c9aa2524165a67af445956c193\Infrastructure\bin\Debug\net7.0\Infrastructure.deps.json
+C:\Users\Horiacus\Desktop\Licenta skinet\skinet-b2ddb9cf518833c9aa2524165a67af445956c193\Infrastructure\bin\Debug\net7.0\Infrastructure.dll
+C:\Users\Horiacus\Desktop\Licenta skinet\skinet-b2ddb9cf518833c9aa2524165a67af445956c193\Infrastructure\bin\Debug\net7.0\Infrastructure.pdb
+C:\Users\Horiacus\Desktop\Licenta skinet\skinet-b2ddb9cf518833c9aa2524165a67af445956c193\Infrastructure\bin\Debug\net7.0\Core.dll
+C:\Users\Horiacus\Desktop\Licenta skinet\skinet-b2ddb9cf518833c9aa2524165a67af445956c193\Infrastructure\bin\Debug\net7.0\Core.pdb
+C:\Users\Horiacus\Desktop\Licenta skinet\skinet-b2ddb9cf518833c9aa2524165a67af445956c193\Infrastructure\obj\Debug\net7.0\Infrastructure.csproj.AssemblyReference.cache
+C:\Users\Horiacus\Desktop\Licenta skinet\skinet-b2ddb9cf518833c9aa2524165a67af445956c193\Infrastructure\obj\Debug\net7.0\Infrastructure.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Horiacus\Desktop\Licenta skinet\skinet-b2ddb9cf518833c9aa2524165a67af445956c193\Infrastructure\obj\Debug\net7.0\Infrastructure.AssemblyInfoInputs.cache
+C:\Users\Horiacus\Desktop\Licenta skinet\skinet-b2ddb9cf518833c9aa2524165a67af445956c193\Infrastructure\obj\Debug\net7.0\Infrastructure.AssemblyInfo.cs
+C:\Users\Horiacus\Desktop\Licenta skinet\skinet-b2ddb9cf518833c9aa2524165a67af445956c193\Infrastructure\obj\Debug\net7.0\Infrastructure.csproj.CoreCompileInputs.cache
+C:\Users\Horiacus\Desktop\Licenta skinet\skinet-b2ddb9cf518833c9aa2524165a67af445956c193\Infrastructure\obj\Debug\net7.0\Infrastructure.csproj.CopyComplete
+C:\Users\Horiacus\Desktop\Licenta skinet\skinet-b2ddb9cf518833c9aa2524165a67af445956c193\Infrastructure\obj\Debug\net7.0\Infrastructure.dll
+C:\Users\Horiacus\Desktop\Licenta skinet\skinet-b2ddb9cf518833c9aa2524165a67af445956c193\Infrastructure\obj\Debug\net7.0\refint\Infrastructure.dll
+C:\Users\Horiacus\Desktop\Licenta skinet\skinet-b2ddb9cf518833c9aa2524165a67af445956c193\Infrastructure\obj\Debug\net7.0\Infrastructure.pdb
+C:\Users\Horiacus\Desktop\Licenta skinet\skinet-b2ddb9cf518833c9aa2524165a67af445956c193\Infrastructure\obj\Debug\net7.0\ref\Infrastructure.dll
+C:\Users\Horiacus\Desktop\Licenta skinet\Licenta\Licenta API\Infrastructure\bin\Debug\net7.0\Infrastructure.deps.json
+C:\Users\Horiacus\Desktop\Licenta skinet\Licenta\Licenta API\Infrastructure\bin\Debug\net7.0\Infrastructure.dll
+C:\Users\Horiacus\Desktop\Licenta skinet\Licenta\Licenta API\Infrastructure\bin\Debug\net7.0\Infrastructure.pdb
+C:\Users\Horiacus\Desktop\Licenta skinet\Licenta\Licenta API\Infrastructure\bin\Debug\net7.0\Core.dll
+C:\Users\Horiacus\Desktop\Licenta skinet\Licenta\Licenta API\Infrastructure\bin\Debug\net7.0\Core.pdb
+C:\Users\Horiacus\Desktop\Licenta skinet\Licenta\Licenta API\Infrastructure\obj\Debug\net7.0\Infrastructure.csproj.AssemblyReference.cache
+C:\Users\Horiacus\Desktop\Licenta skinet\Licenta\Licenta API\Infrastructure\obj\Debug\net7.0\Infrastructure.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Horiacus\Desktop\Licenta skinet\Licenta\Licenta API\Infrastructure\obj\Debug\net7.0\Infrastructure.AssemblyInfoInputs.cache
+C:\Users\Horiacus\Desktop\Licenta skinet\Licenta\Licenta API\Infrastructure\obj\Debug\net7.0\Infrastructure.AssemblyInfo.cs
+C:\Users\Horiacus\Desktop\Licenta skinet\Licenta\Licenta API\Infrastructure\obj\Debug\net7.0\Infrastructure.csproj.CoreCompileInputs.cache
+C:\Users\Horiacus\Desktop\Licenta skinet\Licenta\Licenta API\Infrastructure\obj\Debug\net7.0\Infrastructure.csproj.CopyComplete
+C:\Users\Horiacus\Desktop\Licenta skinet\Licenta\Licenta API\Infrastructure\obj\Debug\net7.0\Infrastructure.dll
+C:\Users\Horiacus\Desktop\Licenta skinet\Licenta\Licenta API\Infrastructure\obj\Debug\net7.0\refint\Infrastructure.dll
+C:\Users\Horiacus\Desktop\Licenta skinet\Licenta\Licenta API\Infrastructure\obj\Debug\net7.0\Infrastructure.pdb
+C:\Users\Horiacus\Desktop\Licenta skinet\Licenta\Licenta API\Infrastructure\obj\Debug\net7.0\ref\Infrastructure.dll
+C:\Users\Horiacus\Desktop\Licenta skinet\Licenta\LICENTA SA MA JOC CU EA\Licenta API\Infrastructure\bin\Debug\net7.0\Infrastructure.deps.json
+C:\Users\Horiacus\Desktop\Licenta skinet\Licenta\LICENTA SA MA JOC CU EA\Licenta API\Infrastructure\bin\Debug\net7.0\Infrastructure.dll
+C:\Users\Horiacus\Desktop\Licenta skinet\Licenta\LICENTA SA MA JOC CU EA\Licenta API\Infrastructure\bin\Debug\net7.0\Infrastructure.pdb
+C:\Users\Horiacus\Desktop\Licenta skinet\Licenta\LICENTA SA MA JOC CU EA\Licenta API\Infrastructure\bin\Debug\net7.0\Core.dll
+C:\Users\Horiacus\Desktop\Licenta skinet\Licenta\LICENTA SA MA JOC CU EA\Licenta API\Infrastructure\bin\Debug\net7.0\Core.pdb
+C:\Users\Horiacus\Desktop\Licenta skinet\Licenta\LICENTA SA MA JOC CU EA\Licenta API\Infrastructure\obj\Debug\net7.0\Infrastructure.csproj.AssemblyReference.cache
+C:\Users\Horiacus\Desktop\Licenta skinet\Licenta\LICENTA SA MA JOC CU EA\Licenta API\Infrastructure\obj\Debug\net7.0\Infrastructure.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Horiacus\Desktop\Licenta skinet\Licenta\LICENTA SA MA JOC CU EA\Licenta API\Infrastructure\obj\Debug\net7.0\Infrastructure.AssemblyInfoInputs.cache
+C:\Users\Horiacus\Desktop\Licenta skinet\Licenta\LICENTA SA MA JOC CU EA\Licenta API\Infrastructure\obj\Debug\net7.0\Infrastructure.AssemblyInfo.cs
+C:\Users\Horiacus\Desktop\Licenta skinet\Licenta\LICENTA SA MA JOC CU EA\Licenta API\Infrastructure\obj\Debug\net7.0\Infrastructure.csproj.CoreCompileInputs.cache
+C:\Users\Horiacus\Desktop\Licenta skinet\Licenta\LICENTA SA MA JOC CU EA\Licenta API\Infrastructure\obj\Debug\net7.0\Infrastructure.csproj.CopyComplete
+C:\Users\Horiacus\Desktop\Licenta skinet\Licenta\LICENTA SA MA JOC CU EA\Licenta API\Infrastructure\obj\Debug\net7.0\Infrastructure.dll
+C:\Users\Horiacus\Desktop\Licenta skinet\Licenta\LICENTA SA MA JOC CU EA\Licenta API\Infrastructure\obj\Debug\net7.0\refint\Infrastructure.dll
+C:\Users\Horiacus\Desktop\Licenta skinet\Licenta\LICENTA SA MA JOC CU EA\Licenta API\Infrastructure\obj\Debug\net7.0\Infrastructure.pdb
+C:\Users\Horiacus\Desktop\Licenta skinet\Licenta\LICENTA SA MA JOC CU EA\Licenta API\Infrastructure\obj\Debug\net7.0\ref\Infrastructure.dll
+C:\Users\Horiacus\Desktop\Licenta skinet\Licenta\LICENTA SA MA JOC CU EA\Licenta\Infrastructure\bin\Debug\net7.0\Infrastructure.deps.json
+C:\Users\Horiacus\Desktop\Licenta skinet\Licenta\LICENTA SA MA JOC CU EA\Licenta\Infrastructure\bin\Debug\net7.0\Infrastructure.dll
+C:\Users\Horiacus\Desktop\Licenta skinet\Licenta\LICENTA SA MA JOC CU EA\Licenta\Infrastructure\bin\Debug\net7.0\Infrastructure.pdb
+C:\Users\Horiacus\Desktop\Licenta skinet\Licenta\LICENTA SA MA JOC CU EA\Licenta\Infrastructure\bin\Debug\net7.0\Core.dll
+C:\Users\Horiacus\Desktop\Licenta skinet\Licenta\LICENTA SA MA JOC CU EA\Licenta\Infrastructure\bin\Debug\net7.0\Core.pdb
+C:\Users\Horiacus\Desktop\Licenta skinet\Licenta\LICENTA SA MA JOC CU EA\Licenta\Infrastructure\obj\Debug\net7.0\Infrastructure.csproj.AssemblyReference.cache
+C:\Users\Horiacus\Desktop\Licenta skinet\Licenta\LICENTA SA MA JOC CU EA\Licenta\Infrastructure\obj\Debug\net7.0\Infrastructure.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Horiacus\Desktop\Licenta skinet\Licenta\LICENTA SA MA JOC CU EA\Licenta\Infrastructure\obj\Debug\net7.0\Infrastructure.AssemblyInfoInputs.cache
+C:\Users\Horiacus\Desktop\Licenta skinet\Licenta\LICENTA SA MA JOC CU EA\Licenta\Infrastructure\obj\Debug\net7.0\Infrastructure.AssemblyInfo.cs
+C:\Users\Horiacus\Desktop\Licenta skinet\Licenta\LICENTA SA MA JOC CU EA\Licenta\Infrastructure\obj\Debug\net7.0\Infrastructure.csproj.CoreCompileInputs.cache
+C:\Users\Horiacus\Desktop\Licenta skinet\Licenta\LICENTA SA MA JOC CU EA\Licenta\Infrastructure\obj\Debug\net7.0\Infrastructure.csproj.CopyComplete
+C:\Users\Horiacus\Desktop\Licenta skinet\Licenta\LICENTA SA MA JOC CU EA\Licenta\Infrastructure\obj\Debug\net7.0\Infrastructure.dll
+C:\Users\Horiacus\Desktop\Licenta skinet\Licenta\LICENTA SA MA JOC CU EA\Licenta\Infrastructure\obj\Debug\net7.0\refint\Infrastructure.dll
+C:\Users\Horiacus\Desktop\Licenta skinet\Licenta\LICENTA SA MA JOC CU EA\Licenta\Infrastructure\obj\Debug\net7.0\Infrastructure.pdb
+C:\Users\Horiacus\Desktop\Licenta skinet\Licenta\LICENTA SA MA JOC CU EA\Licenta\Infrastructure\obj\Debug\net7.0\ref\Infrastructure.dll
+C:\Users\Horiacus\Desktop\Licenta skinet\Licenta\LICENTA SA MA JOC CU EA - PostGres\Licenta\Infrastructure\bin\Debug\net7.0\Infrastructure.deps.json
+C:\Users\Horiacus\Desktop\Licenta skinet\Licenta\LICENTA SA MA JOC CU EA - PostGres\Licenta\Infrastructure\bin\Debug\net7.0\Infrastructure.dll
+C:\Users\Horiacus\Desktop\Licenta skinet\Licenta\LICENTA SA MA JOC CU EA - PostGres\Licenta\Infrastructure\bin\Debug\net7.0\Infrastructure.pdb
+C:\Users\Horiacus\Desktop\Licenta skinet\Licenta\LICENTA SA MA JOC CU EA - PostGres\Licenta\Infrastructure\bin\Debug\net7.0\Core.dll
+C:\Users\Horiacus\Desktop\Licenta skinet\Licenta\LICENTA SA MA JOC CU EA - PostGres\Licenta\Infrastructure\bin\Debug\net7.0\Core.pdb
+C:\Users\Horiacus\Desktop\Licenta skinet\Licenta\LICENTA SA MA JOC CU EA - PostGres\Licenta\Infrastructure\obj\Debug\net7.0\Infrastructure.csproj.AssemblyReference.cache
+C:\Users\Horiacus\Desktop\Licenta skinet\Licenta\LICENTA SA MA JOC CU EA - PostGres\Licenta\Infrastructure\obj\Debug\net7.0\Infrastructure.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Horiacus\Desktop\Licenta skinet\Licenta\LICENTA SA MA JOC CU EA - PostGres\Licenta\Infrastructure\obj\Debug\net7.0\Infrastructure.AssemblyInfoInputs.cache
+C:\Users\Horiacus\Desktop\Licenta skinet\Licenta\LICENTA SA MA JOC CU EA - PostGres\Licenta\Infrastructure\obj\Debug\net7.0\Infrastructure.AssemblyInfo.cs
+C:\Users\Horiacus\Desktop\Licenta skinet\Licenta\LICENTA SA MA JOC CU EA - PostGres\Licenta\Infrastructure\obj\Debug\net7.0\Infrastructure.csproj.CoreCompileInputs.cache
+C:\Users\Horiacus\Desktop\Licenta skinet\Licenta\LICENTA SA MA JOC CU EA - PostGres\Licenta\Infrastructure\obj\Debug\net7.0\Infrastructure.csproj.CopyComplete
+C:\Users\Horiacus\Desktop\Licenta skinet\Licenta\LICENTA SA MA JOC CU EA - PostGres\Licenta\Infrastructure\obj\Debug\net7.0\Infrastructure.dll
+C:\Users\Horiacus\Desktop\Licenta skinet\Licenta\LICENTA SA MA JOC CU EA - PostGres\Licenta\Infrastructure\obj\Debug\net7.0\refint\Infrastructure.dll
+C:\Users\Horiacus\Desktop\Licenta skinet\Licenta\LICENTA SA MA JOC CU EA - PostGres\Licenta\Infrastructure\obj\Debug\net7.0\Infrastructure.pdb
+C:\Users\Horiacus\Desktop\Licenta skinet\Licenta\LICENTA SA MA JOC CU EA - PostGres\Licenta\Infrastructure\obj\Debug\net7.0\ref\Infrastructure.dll
+C:\Users\Horiacus\Desktop\Licenta finala\Licenta\Licenta finala\Licenta Final\Infrastructure\bin\Debug\net7.0\Infrastructure.deps.json
+C:\Users\Horiacus\Desktop\Licenta finala\Licenta\Licenta finala\Licenta Final\Infrastructure\bin\Debug\net7.0\Infrastructure.dll
+C:\Users\Horiacus\Desktop\Licenta finala\Licenta\Licenta finala\Licenta Final\Infrastructure\bin\Debug\net7.0\Infrastructure.pdb
+C:\Users\Horiacus\Desktop\Licenta finala\Licenta\Licenta finala\Licenta Final\Infrastructure\bin\Debug\net7.0\Core.dll
+C:\Users\Horiacus\Desktop\Licenta finala\Licenta\Licenta finala\Licenta Final\Infrastructure\bin\Debug\net7.0\Core.pdb
+C:\Users\Horiacus\Desktop\Licenta finala\Licenta\Licenta finala\Licenta Final\Infrastructure\obj\Debug\net7.0\Infrastructure.csproj.AssemblyReference.cache
+C:\Users\Horiacus\Desktop\Licenta finala\Licenta\Licenta finala\Licenta Final\Infrastructure\obj\Debug\net7.0\Infrastructure.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Horiacus\Desktop\Licenta finala\Licenta\Licenta finala\Licenta Final\Infrastructure\obj\Debug\net7.0\Infrastructure.AssemblyInfoInputs.cache
+C:\Users\Horiacus\Desktop\Licenta finala\Licenta\Licenta finala\Licenta Final\Infrastructure\obj\Debug\net7.0\Infrastructure.AssemblyInfo.cs
+C:\Users\Horiacus\Desktop\Licenta finala\Licenta\Licenta finala\Licenta Final\Infrastructure\obj\Debug\net7.0\Infrastructure.csproj.CoreCompileInputs.cache
+C:\Users\Horiacus\Desktop\Licenta finala\Licenta\Licenta finala\Licenta Final\Infrastructure\obj\Debug\net7.0\Infrastructure.csproj.CopyComplete
+C:\Users\Horiacus\Desktop\Licenta finala\Licenta\Licenta finala\Licenta Final\Infrastructure\obj\Debug\net7.0\Infrastructure.dll
+C:\Users\Horiacus\Desktop\Licenta finala\Licenta\Licenta finala\Licenta Final\Infrastructure\obj\Debug\net7.0\refint\Infrastructure.dll
+C:\Users\Horiacus\Desktop\Licenta finala\Licenta\Licenta finala\Licenta Final\Infrastructure\obj\Debug\net7.0\Infrastructure.pdb
+C:\Users\Horiacus\Desktop\Licenta finala\Licenta\Licenta finala\Licenta Final\Infrastructure\obj\Debug\net7.0\ref\Infrastructure.dll

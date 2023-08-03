@@ -1,0 +1,30 @@
+[
+  {
+    "Id": 1,
+    "ShortName": "Fastest",
+    "Description": "Fastest delivery time!",
+    "DeliveryTime": "1-2 Days",
+    "Price": 15
+  },
+  {
+    "Id": 4,
+    "ShortName": "Fast",
+    "Description": "Fast delivery!",
+    "DeliveryTime": "2-4 Days",
+    "Price": 10
+  },
+  {
+    "Id": 2,
+    "ShortName": "Normal",
+    "Description": "Get it within one week!",
+    "DeliveryTime": "1 Week",
+    "Price": 5
+  },
+  {
+    "Id": 3,
+    "ShortName": "Slow",
+    "Description": "Slower but cheaper.",
+    "DeliveryTime": "1-2 Weeks",
+    "Price": 2
+  }
+]
